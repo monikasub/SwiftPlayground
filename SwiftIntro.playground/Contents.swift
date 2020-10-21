@@ -19,7 +19,7 @@ class ClassWithOptional {
         //Force unwrap
         
         //Default value
-
+//TESTAS
         //if let
         
         //guard let (print if both variables are not nil)
